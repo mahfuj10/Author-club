@@ -1,0 +1,47 @@
+/* body color */
+body{
+    background-color: #EAEDED;
+}
+
+/* author image style */
+.authorImage{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    /* border: 5px solid #d0edf0; */
+    border: 5px solid #9dcacf;
+    margin-bottom: 10px;
+}
+
+/* card style */
+.card { 
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+
+/* icon style */
+.social-icon{
+    font-size: 25px;
+    color: rgb(238, 56, 56);
+}
+
+/* icon contaniner */
+.icon-container{
+    margin-left: 88%;
+    margin-top: 18%;
+    position: absolute;
+}
+
+/* card text */
+.card-body{
+    text-align: center;
+    background-color: #e2f3f5;
+}
+.card-body p{
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
